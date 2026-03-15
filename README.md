@@ -143,10 +143,10 @@ I specialize in crafting powerful server-side applications using modern framewor
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Divya-Patel-Code&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Divya-Patel-Code&show_icons=true&count_private=true&hide_border=true&theme=highcontrast" align="left" style="width: 100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-Patel-Code&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-Patel-Code&hide_border=true&layout=compact&theme=highcontrast" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
@@ -154,7 +154,7 @@ I specialize in crafting powerful server-side applications using modern framewor
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Patel-Code&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Patel-Code&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <br/>
